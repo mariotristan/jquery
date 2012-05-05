@@ -12,6 +12,7 @@ var ralpha = /alpha\([^)]*\)/i,
 	cssShow = { position: "absolute", visibility: "hidden", display: "block" },
 
 	// order is important!
+	// Mario Tristan , modificacion Jquery
 	cssExpand = [ "Top", "Right", "Bottom", "Left" ],
 
 	curCSS,
